@@ -1,0 +1,13 @@
+#timer{
+    text-align: right;
+}
+
+body{
+ font-weight: bold;
+ font-size: 20px;
+ background-color: darkturquoise;
+}
+
+#sketch_name{
+    color: red;
+}
